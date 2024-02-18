@@ -1,1 +1,3 @@
-this is a project to dispplay airport flights
+this is a project to display airport flights in a secure way
+
+aloha
